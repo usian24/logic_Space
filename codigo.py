@@ -1,3 +1,3 @@
 nombre = "lucian"
-apellido = "guilar"
-print (f"como tais hijos mios {nombre } {apellido}")
+apellido = "aguilar"
+print (f"hola {nombre } {apellido}")
